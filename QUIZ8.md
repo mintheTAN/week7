@@ -6,4 +6,4 @@
 #### part 2
 ##### I have incorporated this technique into Edvard Munch's painting, "The Scream," enabling a small, transparent figure to overlap with the painting as the mouse slides across it. This feature symbolizes the wandering soul within the artwork.
 ![scream](IDEA_9103_WK_7_Complete/IDEA_9103_WK_7_Complete/assets/done.png)
-###### Demo link 
+###### Demo code picture (main part)![code](IDEA_9103_WK_7_Complete/IDEA_9103_WK_7_Complete/assets/code.png)
