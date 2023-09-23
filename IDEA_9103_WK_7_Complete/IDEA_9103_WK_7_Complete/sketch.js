@@ -1,21 +1,16 @@
 let img;
-let imgMask;
-
-function preload() {
- 
-  img = loadImage('assets/Edvard_Munch_The_Scream.jpeg');
-  imgMask = loadImage('assets/scream.png');
-}
+let offset = 0;
+let easing = 0.05;
 
 function setup() {
-  createCanvas(720, 400);
-
-  img.mask(imgMask);
-  imageMode(CENTER);
+  createCanvas(800, 800);
+  img = loadImage('assets/Edvard_Munch_The_Scream.jpeg'); // 加载图像
 }
 
 function draw() {
-  background(0, 102, 153);
-  image(img, width / 2, height / 2);
-  image(img, mouseX, mouseY);
+  image(img, 0, 0); 
+  let dx = mouseX - img.width / 2 - offset;
+  offset += dx * easing;
+  tint(255, 127); 
+  image(img, offset, 0);
 }
