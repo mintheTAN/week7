@@ -2,14 +2,14 @@ let img;
 let imgMask;
 
 function preload() {
-  // 加载图像及图像遮罩
-  img = loadImage('assets/moonwalk.jpg');
-  imgMask = loadImage('assets/mask.png');
+ 
+  img = loadImage('assets/Edvard_Munch_The_Scream.jpeg');
+  imgMask = loadImage('assets/scream.png');
 }
 
 function setup() {
   createCanvas(720, 400);
-  // mask() 函数将图像遮罩覆盖在图像上
+
   img.mask(imgMask);
   imageMode(CENTER);
 }
