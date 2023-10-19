@@ -1,17 +1,17 @@
 let song;
-let fft; // Declare the FFT variable
+let fft; 
 let spectralCentroid = 0;
 let centroidplot = 0.0;
 
 
 function preload() {
-  // Fill in the URL for your audio asset with forward slashes
+
   song = loadSound("assets/sample-visualisation.mp3");
 }
 
 function setup() {
   cnv = createCanvas(1000, 800);
-  // Create a new FFT analysis object
+
   fft = new p5.FFT();
   // Add the song (sample) into the FFT's input
   song.connect(fft);
@@ -19,7 +19,7 @@ function setup() {
 }
 
 function draw() {
-  // Give the user a hint on how to interact with the sketch
+
   if (getAudioContext().state !== 'running') {
     background(220);
     text('assets/sample-visualisation.mp3', 10, 20, width - 20);
