@@ -10,10 +10,10 @@ Moreover, I reconsidered the choice of music for the project. I realized that th
 # reference #
 -17.9: Sound Visualization: Graphing Amplitude - p5.js Sound Tutorial. (2016, October 18). 
 Www.youtube.com. https://www.youtube.com/watch?v=jEwAMgcCgOA
-*Alba, V. (1999). The Trapunto Paintings of Pacita Abad. FIBERARTS, 26(2), 49-53.
-+Code.org. (n.d.). Studio.code.org. Retrieved October 30, 2023, from 
+-Alba, V. (1999). The Trapunto Paintings of Pacita Abad. FIBERARTS, 26(2), 49-53.
+-Code.org. (n.d.). Studio.code.org. Retrieved October 30, 2023, from 
 https://studio.code.org/docs/ide/gamelab/expressions/rotationSpeed
-+Pacita Abad | Wheels of fortune (2000) | Artsy. (n.d.). Www.artsy.net. Retrieved November 4, 2023, from 
+-Pacita Abad | Wheels of fortune (2000) | Artsy. (n.d.). Www.artsy.net. Retrieved November 4, 2023, from 
 https://www.artsy.net/artwork/pacita-abad-wheels-of-fortune
 +reference | p5.js. (n.d.-a). P5js.org. Retrieved October 31, 2023, from 
 https://p5js.org/zh-Hans/reference/#/p5/for
