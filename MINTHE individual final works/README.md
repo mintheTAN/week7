@@ -7,19 +7,19 @@ In the second prototype, I introduced a mouse-clicking interaction to control th
 ## final work ## [finalwork 3](https://github.com/mintheTAN/week7/tree/3f4918665b0cfa2b544cbed728bf0c820a271b55/MINTHE%20individual%20final%20works/myfinalwork3)
 In my final work, I added rotation to the small ovals around the main circle, creating a more dynamic and connected visual representation that synchronizes with the music. I also adjusted the speed of the movement to prevent excessive motion that might cause discomfort.
 Moreover, I reconsidered the choice of music for the project. I realized that the previous selection was too energetic and failed to capture the nuanced dynamics of the music. In the final version, I opted for the classic song "Circle of Life" from Disney's "The Lion King." This iconic song is known for its unforgettable opening lines, composed with the influence of South African music. While "Circle of Life" carries a distinct African ethnic flavor akin to Pacita's artwork inspiration, it also explores the same theme of destiny's cyclical nature.
-#reference#
-17.9: Sound Visualization: Graphing Amplitude - p5.js Sound Tutorial. (2016, October 18). 
+# reference #
++17.9: Sound Visualization: Graphing Amplitude - p5.js Sound Tutorial. (2016, October 18). 
 Www.youtube.com. https://www.youtube.com/watch?v=jEwAMgcCgOA
-Alba, V. (1999). The Trapunto Paintings of Pacita Abad. FIBERARTS, 26(2), 49-53.
-Code.org. (n.d.). Studio.code.org. Retrieved October 30, 2023, from 
++Alba, V. (1999). The Trapunto Paintings of Pacita Abad. FIBERARTS, 26(2), 49-53.
++Code.org. (n.d.). Studio.code.org. Retrieved October 30, 2023, from 
 https://studio.code.org/docs/ide/gamelab/expressions/rotationSpeed
-Pacita Abad | Wheels of fortune (2000) | Artsy. (n.d.). Www.artsy.net. Retrieved November 4, 2023, from 
++Pacita Abad | Wheels of fortune (2000) | Artsy. (n.d.). Www.artsy.net. Retrieved November 4, 2023, from 
 https://www.artsy.net/artwork/pacita-abad-wheels-of-fortune
-reference | p5.js. (n.d.-a). P5js.org. Retrieved October 31, 2023, from 
++reference | p5.js. (n.d.-a). P5js.org. Retrieved October 31, 2023, from 
 https://p5js.org/zh-Hans/reference/#/p5/for
-reference | p5.js. (n.d.-b). P5js.org. Retrieved October 30, 2023, from 
++reference | p5.js. (n.d.-b). P5js.org. Retrieved October 30, 2023, from 
 https://p5js.org/zh-Hans/reference/#/p5.Table
-reference | p5.js. (n.d.-c). P5js.org. Retrieved November 1, 2023, from 
++reference | p5.js. (n.d.-c). P5js.org. Retrieved November 1, 2023, from 
 https://p5js.org/zh-Hans/reference/#/p5.Amplitude
-Xin, X. (2020, September 15). 3.6 frameRate(), frameCount, millis() - p5.js Tutorial. Www.youtube.com. 
++Xin, X. (2020, September 15). 3.6 frameRate(), frameCount, millis() - p5.js Tutorial. Www.youtube.com. 
 https://www.youtube.com/watch?v=B-N-isc31Z0
